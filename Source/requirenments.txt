@@ -1,0 +1,8 @@
+chromadb
+docx2python
+PyPDF2
+openai
+nest_asyncio
+pathlib
+azure-storage-blob
+amara3.iri
